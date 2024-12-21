@@ -1,5 +1,5 @@
 <!-- Footer -->
-    <footer class="text-white text-center py-3" style="background-color: orange;">
+    <footer class="text-white text-center py-3" style="background-color:  #ff7a2f;">
         <div class="container">
          <p>&copy; <?php echo date('Y'); ?> My Portfolio. All rights reserved.</p>
           <div class="mt-2">

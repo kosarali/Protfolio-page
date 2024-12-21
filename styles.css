@@ -46,14 +46,14 @@
   }
   
   .nav-tabs .nav-link.active {
-    background-color: #ffc107; 
+    background-color: #ff7a2f; 
     color: rgb(255, 255, 255);
-    border: 1px solid #ffc107; 
+    border: 1px solid #ff7a2f; 
   }
   
   
   .nav-tabs .nav-link:hover {
-    background-color: #f0e68c; 
+    background-color: #f39829c6; 
     color: black;
   }
  .card-footer {
@@ -64,11 +64,12 @@
 
 .card .card-footer a.btn {
   z-index: 1; 
-  position: relative; 
+  position: relative;
+  background-color: #ff7a2f; 
 }
 .card-footer a.btn:hover {
   color: #fff !important;
-  background-color: #ff8c00 !important; 
+  background-color: #f39829c6 !important; 
 }
 
 @media only screen and (max-width:600px){

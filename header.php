@@ -12,7 +12,7 @@
   <link rel="stylesheet" href="styles.css">
 </head>
  <!-- Navbar -->
- <nav class="navbar navbar-expand-sm" style="background-color: orange;">
+ <nav class="navbar navbar-expand-sm" style="background-color: #ff7a2f;">
       <div class="container-fluid">
         <a class="navbar-brand" href="/home.php">RTW</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample03" aria-controls="navbarsExample03" aria-expanded="false" aria-label="Toggle navigation">
